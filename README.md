@@ -35,4 +35,4 @@ The "8K Step Initiative" (Metabolic Health & BMI Optimization)
 •	Data Justification: Scatter plot evidence shows the "Normal" BMI category is most prevalent among those exceeding 8K steps and 7 hours of sleep.
 •	Targeted Outcome: Shifting the workforce from the 6.89K average to an 8K minimum through walking meetings and activity incentives to improve BMI distributions and overall energy levels.
 
-
+https://github.com/aswathikrishnapk123/aswathikrishnapk1/blob/main/Screenshot%202026-04-18%20183412.png
