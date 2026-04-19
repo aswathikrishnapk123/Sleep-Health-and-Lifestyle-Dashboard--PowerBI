@@ -1,5 +1,7 @@
 # Sleep Health and Lifestyle
+## 1.PROJECT TITLE
 Sleep Health and Lifestyle Analysis Dashboard -PowerBI
+## 2.DESCRIPTION
 This lifestyle dashboard presents a comprehensive visual analysis of how physical health metrics and professional roles influence rest patterns. 
 
 The data highlights a strong correlation between occupational stress and sleep quality, noting that medical professionals experience the highest tension levels. Most individuals surveyed report no sleep disorders, maintaining an average rest period of over seven hours despite varying activity levels. By categorizing participants by BMI and age, the charts illustrate how weight and maturity impact heart rate and daily movement. Ultimately, the source serves as a data visualization tool designed to track the complex relationship between daily habits and overall wellness outcomes
